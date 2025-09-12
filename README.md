@@ -33,9 +33,13 @@
   <a href="https://www.instagram.com/lucifer.ff_45/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/>
   </a>
+  <a href="mailto:ankitvishwakarma4591@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40"/>
+  </a>
+  <a href="tel:+919060782203" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="40"/>
+  </a>
 </p>
-📧 **Email:** [ankitvishwakarma4591@gmail.com](mailto:ankitvishwakarma4591@gmail.com)  
-📞 **Phone:** +91 9060782203 
 
 ---
 
