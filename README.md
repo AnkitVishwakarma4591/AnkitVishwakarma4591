@@ -34,6 +34,8 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/>
   </a>
 </p>
+📧 **Email:** [ankitvishwakarma4591@gmail.com](mailto:ankitvishwakarma4591@gmail.com)  
+📞 **Phone:** +91 9060782203 
 
 ---
 
