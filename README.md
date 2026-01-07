@@ -1,90 +1,103 @@
 <!-- Profile README for Ankit Vishwakarma -->
 
 <h1 align="center">Hi 👋, I'm Ankit Vishwakarma</h1>
-<h3 align="center">Transforming data into impactful insights</h3>
+<h3 align="center">Transforming data into impactful insights 📊</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&label=Profile%20views&color=0e75b6&style=flat" />
   <a href="https://github.com/AnkitVishwakarma4591?tab=followers">
-    <img src="https://img.shields.io/github/followers/AnkitVishwakarma4591?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/AnkitVishwakarma4591?label=Followers&style=social" />
+  </a>
+  <a href="https://leetcode.com/u/k8eUsdxhXU/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 Specializing in **Data Analytics**, with a strong foundation in **C, C++, Java, Python, SQL, NoSQL**  
--  Skilled in **Power BI, Tableau, Excel**, and **Machine Learning** tools  
--  Certified in **ML, Cybersecurity, Business Analytics, SQL, Data Analytics**, and more  
--  Class Representative & Technical Head of **E-Cell, Sunstone**  
--  Passionate about transforming data into actionable insights  
--  Reach me at: **ankitvishwakarma4591@gmail.com**
+## 👨‍💻 About Me
+- 🎓 **Data Analytics & AI/ML Enthusiast**
+- 💻 Languages: **C, C++, Java, Python, SQL**
+- 📊 Tools: **Power BI, Tableau, Excel**
+- 🧠 Interests: **Machine Learning, Data Visualization**
+- 🏫 Class Representative & Technical Head – **E-Cell, Sunstone**
+- 📧 Email: **ankitvishwakarma4591@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ankit-vishwakarma4591/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
+  <a href="https://www.linkedin.com/in/ankit-vishwakarma4591/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ankit-portfolio-7d8377.netlify.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  <a href="https://ankit-portfolio-7d8377.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel"/>
   </a>
-  <a href="https://www.instagram.com/lucifer.ff_45/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/>
+  <a href="https://www.instagram.com/lucifer.ff_45/">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/k8eUsdxhXU/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?logo=leetcode"/>
   </a>
 </p>
 
 ---
 
 ## ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mysql,postgresql,mongodb,git,github" />
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
+</p>
+
+### 🌐 Web & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,postgres,mongodb"/>
+</p>
+
+### 📊 Analytics & Tools
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitVishwakarma4591&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitVishwakarma4591&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitVishwakarma4591&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitVishwakarma4591&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitVishwakarma4591&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🚀 Projects
-| Project | Description | Link |
-|--------|-------------|------|
-| ML Heart Disease Prediction | Build a ML model for heart disease risk prediction | [Repo](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
-| BlinkIT Dashboard (Power BI) | Interactive retail analytics dashboard | [Repo](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9) |
-| Uber Dashboard (Tableau) | Visualise ride-hailing insights | [Repo](https://app.powerbi.com/view?r=eyJrIjoiZTU4NWVlODMtZDZmOS00ZGFjLTg2MjctMmFkYTMwMzA2MGYxIiwidCI6IjZhZGJkNDg0LWRkYWMtNDIxZi1hYjRiLWZmMmUwYzE2MGI2YyJ9) |
-| COVID Case Analysis | Pandemic trend visualisation | [Repo](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-| Gesture Volume Control | Control system volume using hand gestures | [Repo](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
-| Traffic Monitor (YOLO + OpenCV) | Real-time smart traffic monitoring | [Repo](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
-| Weather Forecasting | Weather prediction using APIs | [Repo](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
-| Student Management System | Manage academic records effectively | [Repo](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
-| E-Cell Sunstone Website | Official site for Entrepreneurship Cell | [Repo](https://github.com/AnkitVishwakarma4591/E-CELL-SUNSTONE) |
-
----
-
-## 🏆 GitHub Achievements
+## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkitVishwakarma4591&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://leetcard.jacoblin.cool/k8eUsdxhXU?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
 ---
 
-## ✨ Fun Fact
-Currently exploring **Machine Learning + Data Analytics**  
-> “Data is the new oil, but insight is the new currency.”
+## 🚀 Projects (Highlighted)
+- 🫀 **Heart Disease Prediction (ML)**  
+- 📦 **BlinkIT Dashboard – Power BI**
+- 🚕 **Uber Analytics – Tableau**
+- 🎥 **Gesture Volume Control – OpenCV**
+- 🚦 **Traffic Monitoring – YOLO**
+- 🌦️ **Weather Forecasting App**
+
+👉 *More projects available on my GitHub repositories*
 
 ---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitVishwakarma4591&theme=radical"/>
+</p>
+
+---
+
+## ✨ Quote
+> *“Data is the new oil, but insight is the new currency.”*
