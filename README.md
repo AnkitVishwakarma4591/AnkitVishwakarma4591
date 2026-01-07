@@ -21,7 +21,7 @@
 - 📊 Tools: **Power BI, Tableau, Excel**
 - 🧠 Interests: **Machine Learning, Data Visualization**
 - 🏫 Class Representative & Technical Head – **E-Cell, Sunstone**
-- 📧 Reach me at: **ankitvishwakarma4591@gmail.com**
+- 📧 Email: **ankitvishwakarma4591@gmail.com**
 
 ---
 
@@ -65,16 +65,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AnkitVishwakarma4591&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitVishwakarma4591&layout=compact&theme=radical&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitVishwakarma4591&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitVishwakarma4591&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -85,29 +79,29 @@
 </p>
 
 ---
-
 ## 🚀 Projects
 
 | Project | Description | Live / Repo Link |
 |--------|-------------|------------------|
-| 🫀 **Heart Disease Prediction (ML)** | ML model to predict heart disease risk | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
+| 🫀 **Heart Disease Prediction (ML)** | Machine Learning model to predict heart disease risk | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
 | 🛒 **BlinkIT Analytics Dashboard (Power BI)** | Interactive retail analytics dashboard | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9) |
-| 🚕 **Uber Analytics Dashboard (Tableau)** | Ride-hailing data visualization | [View Dashboard](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
+| 🚕 **Uber Analytics Dashboard (Tableau)** | Ride-hailing data visualization & insights | [View Dashboard](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
 | 🦠 **COVID-19 Case Analysis** | India COVID-19 trend visualization | [View Dashboard](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
-| ✋ **Gesture Volume Control** | Control system volume using hand gestures | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
-| 🚦 **Traffic Monitoring (YOLO + OpenCV)** | Real-time traffic monitoring system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
-| 🌦️ **Weather Forecasting App** | Weather prediction using APIs | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
-| 🎓 **Student Management System** | Academic record management system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
+| ✋ **Gesture Volume Control** | Control system volume using hand gestures (OpenCV) | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
+| 🚦 **Traffic Monitoring System (YOLO + OpenCV)** | Real-time smart traffic monitoring system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
+| 🌦️ **Weather Forecasting App** | Weather prediction using public APIs | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
+| 🎓 **Student Management System** | Academic record & grade management system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
 | 🚀 **E-Cell Sunstone Website** | Official Entrepreneurship Cell website | [GitHub Repo](https://github.com/AnkitVishwakarma4591/E-CELL-SUNSTONE) |
+
+
+👉 *More projects available on my GitHub repositories*
 
 ---
 
 ## 🏆 Achievements
-- 🟢 Active GitHub Contributor  
-- ⭐ Open Source Enthusiast  
-- 🔥 Consistent Coding Practice  
-- 📊 Data Analytics & ML Projects  
-- 🧠 LeetCode Problem Solver  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnkitVishwakarma4591&theme=radical"/>
+</p>
 
 ---
 
