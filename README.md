@@ -79,14 +79,20 @@
 </p>
 
 ---
+## 🚀 Projects
 
-## 🚀 Projects (Highlighted)
-- 🫀 **Heart Disease Prediction (ML)**  
-- 📦 **BlinkIT Dashboard – Power BI**
-- 🚕 **Uber Analytics – Tableau**
-- 🎥 **Gesture Volume Control – OpenCV**
-- 🚦 **Traffic Monitoring – YOLO**
-- 🌦️ **Weather Forecasting App**
+| Project | Description | Live / Repo Link |
+|--------|-------------|------------------|
+| 🫀 **Heart Disease Prediction (ML)** | Machine Learning model to predict heart disease risk | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
+| 🛒 **BlinkIT Analytics Dashboard (Power BI)** | Interactive retail analytics dashboard | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9) |
+| 🚕 **Uber Analytics Dashboard (Tableau)** | Ride-hailing data visualization & insights | [View Dashboard](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
+| 🦠 **COVID-19 Case Analysis** | India COVID-19 trend visualization | [View Dashboard](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
+| ✋ **Gesture Volume Control** | Control system volume using hand gestures (OpenCV) | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
+| 🚦 **Traffic Monitoring System (YOLO + OpenCV)** | Real-time smart traffic monitoring system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
+| 🌦️ **Weather Forecasting App** | Weather prediction using public APIs | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
+| 🎓 **Student Management System** | Academic record & grade management system | [GitHub Repo](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
+| 🚀 **E-Cell Sunstone Website** | Official Entrepreneurship Cell website | [GitHub Repo](https://github.com/AnkitVishwakarma4591/E-CELL-SUNSTONE) |
+
 
 👉 *More projects available on my GitHub repositories*
 
