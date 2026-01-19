@@ -81,9 +81,15 @@
 
 ## 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/k8eUsdxhXU?theme=dark&font=Karma&ext=heatmap"/>
+  <img 
+    src="https://leetcode-stats-six.vercel.app/api?username=AnkitVishwakarma4591&theme=dark" 
+    alt="LeetCode Stats"
+  />
 </p>
 
+<p align="center">
+  <strong>270+ DSA problems solved</strong> • Consistent practice • C++
+</p>
 ---
 
 ## 🚀 Projects
