@@ -82,7 +82,8 @@
 ## 🔥 LeetCode Stats
 <p align="center">
   <img 
-    src="https://leetcode-stats-six.vercel.app/api?username=AnkitVishwakarma4591&theme=dark" 
+    src="https://leetcard.jacoblin.cool/AnkitVishwakarma4591?theme=dark&font=Karma&ext=heatmap&refresh=1" 
+    alt="LeetCode Heatmap Stats"
   />
 </p>
 
