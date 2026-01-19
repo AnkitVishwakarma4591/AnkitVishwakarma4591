@@ -80,7 +80,7 @@
 ---
 
 ## 🔥 LeetCode Stats
-p align="center">
+<p align="center">
   <img 
     src="https://leetcode-stats-six.vercel.app/api?username=AnkitVishwakarma4591&theme=dark" 
   />
