@@ -91,6 +91,99 @@ const ankit = {
 
 </div>
 
+---
+
+## 📊 GitHub Track
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnkitVishwakarma4591&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF&border_color=00FF99&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitVishwakarma4591&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&border_color=00FF99" height="180"/>
+
+<br/>
+
+<!-- GitHub Streak — Current · Max · Total -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitVishwakarma4591&theme=dark&background=0D1117&ring=00FF99&fire=FF6B35&currStreakLabel=00FF99&sideLabels=FFFFFF&currStreakNum=00FF99&sideNums=FFFFFF&dates=888888&border=00FF99"/>
+
+<br/>
+
+<!-- Commit Activity Line Chart -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+GitHub+Commit+Activity+Over+Time" width="100%"/>
+
+<br/>
+
+<!-- GitHub Quick Stats Badges -->
+![Repos](https://img.shields.io/badge/Repositories-40+-181717?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total_Commits-312+-00FF99?style=for-the-badge&logo=github&logoColor=black)
+![Active Days](https://img.shields.io/badge/Active_Coding_Days-264-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AnkitVishwakarma4591&theme=matrix&no-frame=false&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🔥 LeetCode Track
+
+<div align="center">
+
+<!-- LeetCode Stats Card with Heatmap — auto-updates -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitVishwakarma4591?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/AnkitVishwakarma4591/)
+
+<br/>
+
+<!-- Verified from profile screenshot -->
+![Total](https://img.shields.io/badge/Total_Solved-350_/_3879-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+![Easy](https://img.shields.io/badge/Easy-186_/_933-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-139_/_2030-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
+![Hard](https://img.shields.io/badge/Hard-25_/_916-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
+
+<br/>
+
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
+![Badges](https://img.shields.io/badge/Badges_Earned-4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</div>
+
+---
+
+### 🏅 LeetCode Badges — High Precedence Order
+
+<div align="center">
+
+| Rank | Badge | Tier | Description |
+|:----:|:------|:-----|:------------|
+| 👑 1 | 🏅 **50 Days Badge 2026** | `GOLD · Most Recent` | Solved problems for 50+ days in 2026 |
+| 🔥 2 | 💎 **100 Day Max Streak** | `GOLD · Elite` | 100 consecutive days of coding |
+| 🥈 3 | 🏅 **50 Days Badge 2025** | `SILVER · Year Badge` | Consistent coder throughout 2025 |
+| 🌟 4 | ⭐ **Annual Badge** | `TEAL · Active Year` | Active contributor over full year |
+
+<br/>
+
+<!-- DSA Topic Strength Badges -->
+![Arrays](https://img.shields.io/badge/Arrays-Expert-FFA116?style=flat-square&logo=leetcode)
+![Linked Lists](https://img.shields.io/badge/Linked_Lists-Strong-FFA116?style=flat-square&logo=leetcode)
+![Binary Search](https://img.shields.io/badge/Binary_Search-Strong-FFA116?style=flat-square&logo=leetcode)
+![Two Pointer](https://img.shields.io/badge/Two_Pointer-Strong-FFA116?style=flat-square&logo=leetcode)
+![Big-O](https://img.shields.io/badge/Big--O_Analysis-Strong-FFA116?style=flat-square&logo=leetcode)
+![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
