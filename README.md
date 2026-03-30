@@ -1,7 +1,6 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--        ANKIT VISHWAKARMA — GITHUB PROFILE README v4.0        -->
-<!--              All sections merged & verified ✅                -->
-<!-- ████████████████████████████████████████████████████████████ --> 
+<!--        ANKIT VISHWAKARMA — GITHUB PROFILE README             -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=twinkling" width="100%"/>
 
@@ -14,8 +13,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&color=00ff99&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/AnkitVishwakarma4591?color=00ff99&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/AnkitVishwakarma4591?tab=followers)
 [![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
+[![Open to Internships](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
 
 </div>
 
@@ -27,14 +25,12 @@
 const ankit = {
   name     : "Ankit Vishwakarma",
   location : "Bhopal, Madhya Pradesh, India 🇮🇳",
-  education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
+  education: "B.Tech CSE @ SAGE University (2023–2027)",
   role     : "Aspiring Software Engineer & Data Analyst",
   building : "ML models · BI Dashboards · CV Projects",
   openTo   : ["Internships", "Collaborations", "Open Source"],
-  leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 4 },
-  github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
-  funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
-  askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
+  funFact  : "Solved 350+ LeetCode problems in C++ 🔥",
+  askMeAbout("Python", "Power BI", "ML", "SQL")
 };
 ```
 
@@ -102,21 +98,18 @@ const ankit = {
 
 <br/>
 
-<!-- GitHub Streak — Current · Max · Total -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitVishwakarma4591&theme=dark&background=0D1117&ring=00FF99&fire=FF6B35&currStreakLabel=00FF99&sideLabels=FFFFFF&currStreakNum=00FF99&sideNums=FFFFFF&dates=888888&border=00FF99"/>
 
 <br/>
 
-<!-- Commit Activity Line Chart -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+GitHub+Commit+Activity+Over+Time" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+Commit+Activity+Over+Time" width="100%"/>
 
 <br/>
 
-<!-- GitHub Quick Stats Badges -->
 ![Repos](https://img.shields.io/badge/Repositories-40+-181717?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Total_Commits-312+-00FF99?style=for-the-badge&logo=github&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active_Coding_Days-264-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![Active Days](https://img.shields.io/badge/Active_Days-264-00FF99?style=for-the-badge&logo=github&logoColor=black)
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-28-FFA116?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
 
@@ -132,72 +125,20 @@ const ankit = {
 
 ---
 
-## 🔥 LeetCode Track
-
-<div align="center">
-
-<!-- LeetCode Stats Card with Heatmap — auto-updates -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitVishwakarma4591?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/AnkitVishwakarma4591/)
-
-<br/>
-
-<!-- Verified from profile screenshot -->
-![Total](https://img.shields.io/badge/Total_Solved-350_/_3879-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-![Easy](https://img.shields.io/badge/Easy-186_/_933-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-139_/_2030-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
-![Hard](https://img.shields.io/badge/Hard-25_/_916-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
-
-<br/>
-
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
-![Badges](https://img.shields.io/badge/Badges_Earned-4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
-
----
-
-### 🏅 LeetCode Badges — High Precedence Order
-
-<div align="center">
-
-| Rank | Badge | Tier | Description |
-|:----:|:------|:-----|:------------|
-| 👑 1 | 🏅 **50 Days Badge 2026** | `GOLD · Most Recent` | Solved problems for 50+ days in 2026 |
-| 🔥 2 | 💎 **100 Day Max Streak** | `GOLD · Elite` | 100 consecutive days of coding |
-| 🥈 3 | 🏅 **50 Days Badge 2025** | `SILVER · Year Badge` | Consistent coder throughout 2025 |
-| 🌟 4 | ⭐ **Annual Badge** | `TEAL · Active Year` | Active contributor over full year |
-
-<br/>
-
-<!-- DSA Topic Strength Badges -->
-![Arrays](https://img.shields.io/badge/Arrays-Expert-FFA116?style=flat-square&logo=leetcode)
-![Linked Lists](https://img.shields.io/badge/Linked_Lists-Strong-FFA116?style=flat-square&logo=leetcode)
-![Binary Search](https://img.shields.io/badge/Binary_Search-Strong-FFA116?style=flat-square&logo=leetcode)
-![Two Pointer](https://img.shields.io/badge/Two_Pointer-Strong-FFA116?style=flat-square&logo=leetcode)
-![Big-O](https://img.shields.io/badge/Big--O_Analysis-Strong-FFA116?style=flat-square&logo=leetcode)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | # | Project | Description | Impact | Stack | Link |
 |:-:|:--------|:------------|:-------|:------|:----:|
-| 1 | 🫀 **Heart Disease Prediction** | Random Forest ML model predicting CHD risk | **~85% accuracy** · ~30% less manual effort · Streamlit deploy | `Python` `Scikit-Learn` `Streamlit` | [![Live](https://img.shields.io/badge/Live-F2C811?style=flat-square&logo=streamlit&logoColor=pink)](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
-| 2 | 🛒 **BlinkIT Analytics Dashboard** | Power BI on $1.20M sales across 8,523 items | Low Fat $425K vs Regular $776K · Avg rating 3.9 | `Power BI` `Excel` `DAX` | [![Live](https://img.shields.io/badge/Live-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9) |
-| 3 | 🦠 **COVID-19 India Dashboard** | Tableau visualization of nationwide pandemic trends | 23.7L+ deaths · 56B+ vaccinations · State-wise testing | `Tableau` `Big Data` | [![Live](https://img.shields.io/badge/Live-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
-| 4 | ✋ **Gesture Volume Control** | Hand gesture-based system volume via webcam | Real-time recognition · MediaPipe + OpenCV | `Python` `OpenCV` `MediaPipe` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
-| 5 | 🚦 **Traffic Monitor (YOLO)** | Real-time vehicle detection & traffic analysis | Live object detection + count analytics | `Python` `YOLO` `OpenCV` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
-| 6 | 🌦️ **Weather Forecast App** | Live weather prediction using public APIs | 5-day forecast with real-time data | `Python` `API` `Tkinter` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
-| 7 | 🎓 **Student Management System** | Academic record CRUD system in Python | Grade analytics + full student database | `Python` `MySQL` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
-| 8 | 🚀 **E-Cell Sunstone Website** | Official Entrepreneurship Cell website | Events · Team showcase · Registration flow | `HTML` `CSS` `JS` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/E-CELL-SUNSTONE) |
+| 1 | 🫀 **Heart Disease Prediction** | Random Forest ML model (CHD risk) | **~85% accuracy** · ~30% less manual effort · Streamlit deploy | `Python` `Scikit-Learn` `Streamlit` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Machine-Learning-Heart-Disease-Prediction) |
+| 2 | 🛒 **BlinkIT Dashboard** | Power BI dashboard on $1.20M sales, 8,523 items | Low Fat $425K vs Regular $776K · Avg rating 3.9 | `Power BI` `DAX` `Excel` | [![Live](https://img.shields.io/badge/Live-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMzZiNjE4YzItYzYyMy00ZDgxLTg5YTQtMTFlYzE3ZjI4NmI0IiwidCI6IjU3ZjljNGQzLWIyNGMtNGZhNy04YzQzLWI4N2I5Mjg0NTQ0MSJ9) |
+| 3 | 🦠 **COVID-19 India Dashboard** | Nationwide pandemic Tableau visualization | 23.7L+ deaths · 56B+ vaccines · State-wise analysis | `Tableau` `Big Data` | [![Live](https://img.shields.io/badge/Live-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17394817238010/Dashboard1) |
+| 4 | ✋ **Gesture Volume Control** | Webcam hand-gesture system volume control | Real-time recognition using MediaPipe | `Python` `OpenCV` `MediaPipe` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Gesture-Controlled-Volume) |
+| 5 | 🚦 **Traffic Monitor (YOLO)** | Real-time vehicle detection & tracking | Live object detection + count analytics | `Python` `YOLO` `OpenCV` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Traffic-Monitor) |
+| 6 | 🌦️ **Weather Forecast App** | Live weather via public APIs | 5-day forecast with real-time fetch | `Python` `API` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Weather-Forecast-Project) |
+| 7 | 🎓 **Student Management** | Academic record CRUD system | Grade analytics + student database | `Python` `MySQL` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/Student-Grade-Management-System-in-Python) |
+| 8 | 🚀 **E-Cell Website** | Official Entrepreneurship Cell site | Events · team · registration flow | `HTML` `CSS` `JS` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/AnkitVishwakarma4591/E-CELL-SUNSTONE) |
 
 </div>
 
@@ -205,14 +146,14 @@ const ankit = {
 
 ## 🏅 Achievements
 
-1. 🥇 **1st Position — Code Quest** · Competitive Programming Challenge @ SAGE Bhopal — algorithms & DSA proficiency
-2. 🥇 **1st Position — Jigsaw Puzzle Challenge** · SAGE Bhopal — analytical thinking & problem-solving under pressure
-3. 🏆 **Academic Excellence Award** · SAGE University Bhopal — outstanding 1st semester academics
-4. 📚 **Peer-to-Peer Learning Session** · Conducted Data Cleaning workshop — full batch attendance · communication skills
-5. 🎮 **Organized E-Gaming Tournament** · 20+ participants — planning, coordination & event management
-6. 🔥 **350 LeetCode Problems Solved** · 547 submissions · 264 active days · Max streak **100 days** · **4 badges**
-7. 🤖 **40+ GitHub Repositories** · Active open-source contributor across ML, CV and data analytics
-8. 🧠 **ML & CV Projects** · Heart Disease (85% acc.) · Potato Disease Detection CNN · Gesture Volume Control
+1. 🥇 **1st Position — Code Quest** · Competitive Programming @ SAGE Bhopal · Algorithms & DSA
+2. 🥇 **1st Position — Jigsaw Puzzle Challenge** · Problem-solving under pressure @ SAGE Bhopal
+3. 🏆 **Academic Excellence Award** · Outstanding 1st Semester performance @ SAGE University Bhopal
+4. 📚 **Peer-to-Peer Learning Session** · Conducted Data Cleaning workshop · Full batch attendance · Teaching skills
+5. 🎮 **E-Gaming Tournament Organizer** · 20+ participants · Planning, coordination & event management
+6. 🔥 **350 LeetCode Problems Solved** · C++ · Arrays · Linked Lists · Binary Search · Two-Pointer · Big-O
+7. 🤖 **40+ GitHub Repositories** · Active open-source contributor across ML, CV & data analytics
+8. 🧠 **ML & CV Projects** · Heart Disease (85% acc.) · Potato Disease CNN · Gesture Volume Control
 
 ---
 
@@ -245,6 +186,68 @@ const ankit = {
 
 ---
 
+## 🏆 LeetCode Badges (High Precedence)
+
+<div align="center">
+
+> **Verified Badges — Highest to Lowest Tier**
+
+| Rank | Badge | Tier | Description |
+|:----:|:------|:-----|:------------|
+| 🥇 1 | 🏆 **Annual Badge 2024** | `GOLD — Highest` | Consistent contributor throughout 2024 |
+| 🥇 2 | ⚡ **50 Days Badge** | `GOLD` | Solved problems for 50+ days |
+| 🥇 3 | 🔥 **100 Days Badge** | `GOLD — Rare` | 100-day streak achievement |
+| 🥈 4 | 🌟 **Guardian** | `SILVER — Contest` | Top contest performer |
+| 🥈 5 | 💎 **Knight** | `SILVER — Contest` | Contest rating milestone |
+| 🥉 6 | 🎯 **Study Plan Badge** | `BRONZE` | Completed official study plan |
+| 🟣 7 | 🐍 **Dynamic Programming** | `TOPIC MASTER` | Mastered DP category |
+| 🟤 8 | 📊 **Top Contributor** | `COMMUNITY` | Active community contributions |
+
+</div>
+
+---
+
+## 🔥 LeetCode Track
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitVishwakarma4591?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/AnkitVishwakarma4591/)
+
+<br/>
+
+![Total](https://img.shields.io/badge/Total_Solved-350_/_3879-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+![Easy](https://img.shields.io/badge/Easy-186_/_933-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-139_/_2030-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
+![Hard](https://img.shields.io/badge/Hard-25_/_916-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
+
+<br/>
+
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
+![Badges](https://img.shields.io/badge/Badges_Earned-4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<br/>
+
+![50 Days 2026](https://img.shields.io/badge/🏅_50_Days_Badge-2026_LATEST-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![100 Day Streak](https://img.shields.io/badge/💎_100_Day_Max_Streak-GOLD_Elite-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
+![50 Days 2025](https://img.shields.io/badge/🏅_50_Days_Badge-2025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Annual Badge](https://img.shields.io/badge/🌟_Annual_Badge-Active_Year-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
+
+<br/>
+
+![Arrays](https://img.shields.io/badge/Arrays-Expert-FFA116?style=flat-square&logo=leetcode)
+![Linked Lists](https://img.shields.io/badge/Linked_Lists-Strong-FFA116?style=flat-square&logo=leetcode)
+![Binary Search](https://img.shields.io/badge/Binary_Search-Strong-FFA116?style=flat-square&logo=leetcode)
+![Two Pointer](https://img.shields.io/badge/Two_Pointer-Strong-FFA116?style=flat-square&logo=leetcode)
+![Big-O](https://img.shields.io/badge/Big--O_Analysis-Strong-FFA116?style=flat-square&logo=leetcode)
+![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -258,9 +261,9 @@ const ankit = {
 </div>
 
 <details>
-<summary>⚡ Click to Enable Snake Animation — GitHub Actions Setup</summary>
+<summary>⚡ Enable Snake Animation — GitHub Actions Setup</summary>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+Create `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -293,8 +296,6 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let%27s+build+something+amazing+together+%F0%9F%94%A5;Open+to+collaborations+%26+internships!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-<br/>
 
 > *"Data is the new oil, but insight is the new currency."*
 
