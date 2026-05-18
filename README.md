@@ -122,7 +122,7 @@ const ankit = {
 </picture> -->
 
 <!-- Commit Activity Line Chart -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+GitHub+Commit+Activity+Over+Time" width="100%"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+GitHub+Commit+Activity+Over+Time" width="100%"/>
 
 <br/>
 
