@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--        ANKIT VISHWAKARMA — GITHUB PROFILE README v4.0        -->
+<!--        ANKIT VISHWAKARMA — GITHUB PROFILE README v5.0        -->
 <!--              All sections merged & verified ✅                -->
 <!-- ████████████████████████████████████████████████████████████ --> 
  
@@ -47,7 +47,9 @@ const ankit = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-vishwakarma4591/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-7d8377.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Codolio](https://img.shields.io/badge/Codolio-00C896?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/AnkitVishwakarma4591)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitVishwakarma4591)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1zQjaFq8zM-IGdvm9DmiUti2rAKqod9qC/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvishwakarma4591@gmail.com)
 
 </div>
@@ -111,10 +113,8 @@ const ankit = {
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
-
   <source media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
-
   <img 
     alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"
@@ -170,16 +170,41 @@ const ankit = {
 
 ---
 
-### 🏅 LeetCode Badges — High Precedence Order
+### 🏅 LeetCode Badges
 
 <div align="center">
 
-| Rank | Badge | Tier | Description |
-|:----:|:------|:-----|:------------|
-| 👑 1 | 🏅 **50 Days Badge 2026** | `GOLD · Most Recent` | Solved problems for 50+ days in 2026 |
-| 🔥 2 | 💎 **100 Day Max Streak** | `GOLD · Elite` | 100 consecutive days of coding |
-| 🥈 3 | 🏅 **50 Days Badge 2025** | `SILVER · Year Badge` | Consistent coder throughout 2025 |
-| 🌟 4 | ⭐ **Annual Badge** | `TEAL · Active Year` | Active contributor over full year |
+<table><tr>
+
+<!-- 50 Days Badge 2026 — EARNED ✅ -->
+<td align="center" width="120">
+  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2026"/>
+  </a><br/><sub><b>50 Days '26</b></sub>
+</td>
+
+<!-- 100 Days Badge 2026 — EARNED ✅ -->
+<td align="center" width="120">
+  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2026"/>
+  </a><br/><sub><b>100 Days '26</b></sub>
+</td>
+
+<!-- 50 Days Badge 2025 — EARNED ✅ -->
+<td align="center" width="120">
+  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2025"/>
+  </a><br/><sub><b>50 Days '25</b></sub>
+</td>
+
+<!-- Annual / Active Year Badge — EARNED ✅ -->
+<td align="center" width="120">
+  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="72" alt="Annual Badge"/>
+  </a><br/><sub><b>Annual Badge</b></sub>
+</td>
+
+</tr></table>
 
 <br/>
 
