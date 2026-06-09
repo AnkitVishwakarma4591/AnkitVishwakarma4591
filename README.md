@@ -48,7 +48,7 @@ const ankit = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-7d8377.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitVishwakarma4591)
-[![Resume](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue)]([https://github.com/AnkitVishwakarma4591](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf))
+[![Resume](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ankit-vishwakarma4591/](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvishwakarma4591@gmail.com)
 
 </div>
