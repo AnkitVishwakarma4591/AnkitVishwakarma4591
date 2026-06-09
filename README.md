@@ -48,7 +48,6 @@ const ankit = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-7d8377.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitVishwakarma4591)
-[![Resume](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Resume&logoColor=white)]([https://www.linkedin.com/in/ankit-vishwakarma4591/](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvishwakarma4591@gmail.com)
 
 </div>
@@ -192,40 +191,6 @@ const ankit = {
 ![Big-O](https://img.shields.io/badge/Big--O_Analysis-Strong-FFA116?style=flat-square&logo=leetcode)
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
 
-</div>
----
-### 🏅 LeetCode Badges
- 
-<div align="center">
-<table><tr>
-<!-- 50 Days Badge 2026 — EARNED ✅ -->
-<td align="center" width="120">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2026"/>
-  </a><br/><sub><b>50 Days '26</b></sub>
-</td>
-<!-- 100 Days Badge 2026 — EARNED ✅ -->
-<td align="center" width="120">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2026"/>
-  </a><br/><sub><b>100 Days '26</b></sub>
-</td>
-<!-- 50 Days Badge 2025 — EARNED ✅ -->
-<td align="center" width="120">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2025"/>
-  </a><br/><sub><b>50 Days '25</b></sub>
-</td>
-</tr></table>
-<br/>
-<!-- DSA Topic Strength Badges -->
-![Arrays](https://img.shields.io/badge/Arrays-Expert-FFA116?style=flat-square&logo=leetcode)
-![Linked Lists](https://img.shields.io/badge/Linked_Lists-Strong-FFA116?style=flat-square&logo=leetcode)
-![Binary Search](https://img.shields.io/badge/Binary_Search-Strong-FFA116?style=flat-square&logo=leetcode)
-![Two Pointer](https://img.shields.io/badge/Two_Pointer-Strong-FFA116?style=flat-square&logo=leetcode)
-![Big-O](https://img.shields.io/badge/Big--O_Analysis-Strong-FFA116?style=flat-square&logo=leetcode)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus)
- 
 </div>
 
 ---
