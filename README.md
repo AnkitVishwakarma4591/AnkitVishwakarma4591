@@ -13,9 +13,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&color=00ff99&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/AnkitVishwakarma4591?color=00ff99&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/AnkitVishwakarma4591?tab=followers)
-[![LeetCode](https://img.shields.io/badge/LeetCode-437_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Max Streak](https://img.shields.io/badge/Max_Streak-143_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
 [![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Download-Resume-blue?style=for-the-badge)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
 
 </div>
 
@@ -31,9 +32,9 @@ const ankit = {
   role     : "Aspiring Software Engineer & Data Analyst",
   building : "ML models · BI Dashboards · CV Projects",
   openTo   : ["Internships", "Collaborations", "Open Source"],
-  leetcode : { solved: 437, easy: 211, medium: 184, hard: 42, maxStreak: 143, badges: 8 },
-  github   : { repos: "40+", submissions: "504/yr", activeDays: 266, commits: "312+" },
-  funFact  : "143-day max streak & 266 active coding days 🔥",
+  leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 8 },
+  github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
+  funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
   askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
 };
 ```
@@ -47,10 +48,9 @@ const ankit = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-vishwakarma4591/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-7d8377.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Codolio](https://img.shields.io/badge/Codolio-00C896?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/AnkitVishwakarma4591)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitVishwakarma4591)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-6E40C9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvishwakarma4591@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
 
 </div>
 
@@ -113,10 +113,8 @@ const ankit = {
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
-
   <source media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
-
   <img 
     alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"
@@ -128,8 +126,8 @@ const ankit = {
 <!-- GitHub Quick Stats Badges -->
 ![Repos](https://img.shields.io/badge/Repositories-40+-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/badge/Total_Commits-312+-00FF99?style=for-the-badge&logo=github&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active_Coding_Days-266-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-504-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![Active Days](https://img.shields.io/badge/Active_Coding_Days-264-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FF6B35?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -154,88 +152,97 @@ const ankit = {
 
 <br/>
 
-![Total](https://img.shields.io/badge/Total_Solved-437_/_3958-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<!-- Verified from profile screenshot -->
+![Total](https://img.shields.io/badge/Total_Solved-350_/_3879-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-![Easy](https://img.shields.io/badge/Easy-211_/_949-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-184_/_2067-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
-![Hard](https://img.shields.io/badge/Hard-42_/_942-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
+![Easy](https://img.shields.io/badge/Easy-186_/_933-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-139_/_2030-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
+![Hard](https://img.shields.io/badge/Hard-25_/_916-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
 
 <br/>
 
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-504-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active_Days-266-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Max Streak](https://img.shields.io/badge/Max_Streak-143_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Badges](https://img.shields.io/badge/Badges_Earned-8-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-### 🏅 LeetCode Badges
+## 🏅 LeetCode Badges — Earned
 
 <div align="center">
 
-**Annual Medals**
+### 🎖️ Annual Medals
 
-<table><tr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-100.gif" width="80" height="80" alt="100 Days Badge 2026"/>
+      <br/>
+      <b>100 Days Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026-ACTIVE%20🟢-00b8a3?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-50.gif" width="80" height="80" alt="50 Days Badge 2026"/>
+      <br/>
+      <b>50 Days Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026-Feb%2020-FFA116?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2025/gif/2025-100.gif" width="80" height="80" alt="100 Days Badge 2025"/>
+      <br/>
+      <b>100 Days Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2025-Jul%2002-FFA116?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2025/gif/2025-50.gif" width="80" height="80" alt="50 Days Badge 2025"/>
+      <br/>
+      <b>50 Days Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2025-May%2013-FFA116?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2026"/>
-  </a><br/><sub><b>100 Days '26</b></sub><br/><sub>🟢 Active</sub>
-</td>
+### 📅 Daily Medals
 
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2026"/>
-  </a><br/><sub><b>50 Days '26</b></sub><br/><sub>2026-02-20</sub>
-</td>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="72" alt="100 Days 2025"/>
-  </a><br/><sub><b>100 Days '25</b></sub><br/><sub>2025-07-02</sub>
-</td>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="72" alt="50 Days 2025"/>
-  </a><br/><sub><b>50 Days '25</b></sub><br/><sub>2025-05-13</sub>
-</td>
-
-</tr></table>
-
-<br/>
-
-**Daily Medals**
-
-<table><tr>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/badge-may-2026.gif" width="72" alt="May Badge 2026"/>
-  </a><br/><sub><b>May Badge</b></sub><br/><sub>2026-05-31</sub>
-</td>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/badge-apr-2026.gif" width="72" alt="Apr Badge 2026"/>
-  </a><br/><sub><b>Apr Badge</b></sub><br/><sub>2026-04-30</sub>
-</td>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/badge-mar-2026.gif" width="72" alt="Mar Badge 2026"/>
-  </a><br/><sub><b>Mar Badge</b></sub><br/><sub>2026-03-31</sub>
-</td>
-
-<td align="center" width="110">
-  <a href="https://leetcode.com/u/AnkitVishwakarma4591/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/badge-feb-2026.gif" width="72" alt="Feb Badge 2026"/>
-  </a><br/><sub><b>Feb Badge</b></sub><br/><sub>2026-02-28</sub>
-</td>
-
-</tr></table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-05.gif" width="70" height="70" alt="May Badge 2026"/>
+      <br/>
+      <b>May Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026--05--31-May-39d353?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-04.gif" width="70" height="70" alt="Apr Badge 2026"/>
+      <br/>
+      <b>Apr Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026--04--30-Apr-FFA116?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-03.gif" width="70" height="70" alt="Mar Badge 2026"/>
+      <br/>
+      <b>Mar Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026--03--31-Mar-39d353?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-02.gif" width="70" height="70" alt="Feb Badge 2026"/>
+      <br/>
+      <b>Feb Badge</b>
+      <br/>
+      <img src="https://img.shields.io/badge/2026--02--28-Feb-58a6ff?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -277,7 +284,7 @@ const ankit = {
 3. 🏆 **Academic Excellence Award** · SAGE University Bhopal — outstanding 1st semester academics
 4. 📚 **Peer-to-Peer Learning Session** · Conducted Data Cleaning workshop — full batch attendance · communication skills
 5. 🎮 **Organized E-Gaming Tournament** · 20+ participants — planning, coordination & event management
-6. 🔥 **437 LeetCode Problems Solved** · 504 submissions · 266 active days · Max streak **143 days** · **8 badges**
+6. 🔥 **350 LeetCode Problems Solved** · 547 submissions · 264 active days · Max streak **100 days** · **8 badges**
 7. 🤖 **40+ GitHub Repositories** · Active open-source contributor across ML, CV and data analytics
 8. 🧠 **ML & CV Projects** · Heart Disease (85% acc.) · Potato Disease Detection CNN · Gesture Volume Control
 
@@ -307,6 +314,16 @@ const ankit = {
 | 🎓 B.Tech — CSE | SAGE University Bhopal | 2023–2027 | Pursuing |
 | 📘 Class XII | Inter Science College Hazaribag | 2022 | **82.8%** |
 | 📗 Class X | Project High School Gouriya Karma | 2020 | **82.4%** |
+
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/📄_View_&_Download_Resume-Click_Here-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
 
 </div>
 
