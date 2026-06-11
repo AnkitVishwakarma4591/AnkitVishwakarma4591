@@ -10,14 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Vishwakarma;Aspiring+Software+Engineer+%26+Data+Analyst+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&color=00ff99&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/AnkitVishwakarma4591?color=00ff99&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/AnkitVishwakarma4591?tab=followers)
-[![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Download-Resume-blue?style=for-the-badge)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
-
 </div>
 
 ---
