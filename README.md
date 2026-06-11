@@ -115,6 +115,15 @@
 </div>
 
 ---
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -220,47 +229,6 @@
 | 📗 Class X | Project High School Gouriya Karma | 2020 | **82.4%** |
 
 </div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<details>
-<summary>⚡ Click to Enable Snake Animation — GitHub Actions Setup</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AnkitVishwakarma4591
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
 
 ---
 
