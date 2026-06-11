@@ -107,10 +107,10 @@
 <br/>
 
 <!-- GitHub Quick Stats Badges -->
-![Repos](https://img.shields.io/badge/Repositories-40+-181717?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Total_Commits-312+-00FF99?style=for-the-badge&logo=github&logoColor=black)
+![Repos](https://img.shields.io/badge/Repositories-45+-181717?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total_Commits-853+-00FF99?style=for-the-badge&logo=github&logoColor=black)
 ![Active Days](https://img.shields.io/badge/Active_Coding_Days-264-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![Submissions](https://img.shields.io/badge/Submissions_(1yr)-853-FF6B35?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
