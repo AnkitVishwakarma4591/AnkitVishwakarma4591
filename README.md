@@ -133,22 +133,6 @@
 <!-- LeetCode Stats Card with Heatmap — auto-updates -->
 [![LeetCode Stats](https://leetcard.jacoblin.cool/AnkitVishwakarma4591?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/AnkitVishwakarma4591/)
 
-<br/>
-
-<!-- Verified from profile screenshot -->
-![Total](https://img.shields.io/badge/Total_Solved-350_/_3879-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-![Easy](https://img.shields.io/badge/Easy-186_/_933-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-139_/_2030-ffc01e?style=for-the-badge&logo=leetcode&logoColor=black)
-![Hard](https://img.shields.io/badge/Hard-25_/_916-ff375f?style=for-the-badge&logo=leetcode&logoColor=white)
-
-<br/>
-
-![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
-![Badges](https://img.shields.io/badge/Badges_Earned-4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
 </div>
 
 ---
