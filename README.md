@@ -8,21 +8,36 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Vishwakarma;Aspiring+Software+Engineer+%26+Data+Analyst+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&color=00ff99&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/AnkitVishwakarma4591?color=00ff99&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/AnkitVishwakarma4591?tab=followers)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-- name     : "Ankit Vishwakarma",
-- location : "Bhopal, Madhya Pradesh, India 🇮🇳",
-- education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
-- role     : "Aspiring Software Engineer & Data Analyst",
-- building : "ML models · BI Dashboards · CV Projects",
-- openTo   : ["Internships", "Collaborations", "Open Source"],
-- leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 8 },
-- github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
-- funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
-- askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
+
+```javascript
+const ankit = {
+  name     : "Ankit Vishwakarma",
+  location : "Bhopal, Madhya Pradesh, India 🇮🇳",
+  education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
+  role     : "Aspiring Software Engineer & Data Analyst",
+  building : "ML models · BI Dashboards · CV Projects",
+  openTo   : ["Internships", "Collaborations", "Open Source"],
+  leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 4 },
+  github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
+  funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
+  askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
+};
+```
+
 ---
 
 ## 🌐 Connect With Me
@@ -34,7 +49,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnkitVishwakarma4591)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvishwakarma4591@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
 
 </div>
 
@@ -93,17 +107,8 @@
 
 <br/>
 
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
-  <img 
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"
-    width="100%"/>
-</picture>
+<!-- Commit Activity Line Chart -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitVishwakarma4591&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&area_color=00FF9920&border_color=00FF99&title_color=00FF99&custom_title=📈+GitHub+Commit+Activity+Over+Time" width="100%"/>
 
 <br/>
 
@@ -148,85 +153,22 @@
 ![Submissions](https://img.shields.io/badge/Submissions_(1yr)-547-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Active Days](https://img.shields.io/badge/Active_Days-264-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)
-![Badges](https://img.shields.io/badge/Badges_Earned-8-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Badges](https://img.shields.io/badge/Badges_Earned-4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 </div>
 
 ---
 
-## 🏅 LeetCode Badges — Earned
+### 🏅 LeetCode Badges — High Precedence Order
 
 <div align="center">
 
-### 🎖️ Annual Medals
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-100.gif" width="80" height="80" alt="100 Days Badge 2026"/>
-      <br/>
-      <b>100 Days Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026-ACTIVE%20🟢-00b8a3?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-50.gif" width="80" height="80" alt="50 Days Badge 2026"/>
-      <br/>
-      <b>50 Days Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026-Feb%2020-FFA116?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2025/gif/2025-100.gif" width="80" height="80" alt="100 Days Badge 2025"/>
-      <br/>
-      <b>100 Days Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2025-Jul%2002-FFA116?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2025/gif/2025-50.gif" width="80" height="80" alt="50 Days Badge 2025"/>
-      <br/>
-      <b>50 Days Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2025-May%2013-FFA116?style=flat-square"/>
-    </td>
-  </tr>
-</table>
-
-### 📅 Daily Medals
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-05.gif" width="70" height="70" alt="May Badge 2026"/>
-      <br/>
-      <b>May Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026--05--31-May-39d353?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-04.gif" width="70" height="70" alt="Apr Badge 2026"/>
-      <br/>
-      <b>Apr Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026--04--30-Apr-FFA116?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-03.gif" width="70" height="70" alt="Mar Badge 2026"/>
-      <br/>
-      <b>Mar Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026--03--31-Mar-39d353?style=flat-square"/>
-    </td>
-    <td align="center">
-      <img src="https://leetcode.com/static/images/badges/2026/gif/2026-02.gif" width="70" height="70" alt="Feb Badge 2026"/>
-      <br/>
-      <b>Feb Badge</b>
-      <br/>
-      <img src="https://img.shields.io/badge/2026--02--28-Feb-58a6ff?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+| Rank | Badge | Tier | Description |
+|:----:|:------|:-----|:------------|
+| 👑 1 | 🏅 **50 Days Badge 2026** | `GOLD · Most Recent` | Solved problems for 50+ days in 2026 |
+| 🔥 2 | 💎 **100 Day Max Streak** | `GOLD · Elite` | 100 consecutive days of coding |
+| 🥈 3 | 🏅 **50 Days Badge 2025** | `SILVER · Year Badge` | Consistent coder throughout 2025 |
+| 🌟 4 | ⭐ **Annual Badge** | `TEAL · Active Year` | Active contributor over full year |
 
 <br/>
 
@@ -268,7 +210,7 @@
 3. 🏆 **Academic Excellence Award** · SAGE University Bhopal — outstanding 1st semester academics
 4. 📚 **Peer-to-Peer Learning Session** · Conducted Data Cleaning workshop — full batch attendance · communication skills
 5. 🎮 **Organized E-Gaming Tournament** · 20+ participants — planning, coordination & event management
-6. 🔥 **350 LeetCode Problems Solved** · 547 submissions · 264 active days · Max streak **100 days** · **8 badges**
+6. 🔥 **350 LeetCode Problems Solved** · 547 submissions · 264 active days · Max streak **100 days** · **4 badges**
 7. 🤖 **40+ GitHub Repositories** · Active open-source contributor across ML, CV and data analytics
 8. 🧠 **ML & CV Projects** · Heart Disease (85% acc.) · Potato Disease Detection CNN · Gesture Volume Control
 
@@ -303,13 +245,46 @@
 
 ---
 
-## 📄 Resume
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/📄_View_&_Download_Resume-Click_Here-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/AnkitVishwakarma4591/AnkitVishwakarma4591/blob/main/Resume.pdf)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
+
+<details>
+<summary>⚡ Click to Enable Snake Animation — GitHub Actions Setup</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AnkitVishwakarma4591
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
 
 ---
 
