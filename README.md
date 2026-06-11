@@ -8,16 +8,11 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Vishwakarma;Aspiring+Software+Engineer+%26+Data+Analyst+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
-```javascript
-const ankit = {
   name     : "Ankit Vishwakarma",
   location : "Bhopal, Madhya Pradesh, India 🇮🇳",
   education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
@@ -28,9 +23,6 @@ const ankit = {
   github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
   funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
   askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
-};
-```
-
 ---
 
 ## 🌐 Connect With Me
