@@ -13,16 +13,16 @@
 ---
 
 ## 🧑‍💻 About Me
-  name     : "Ankit Vishwakarma",
-  location : "Bhopal, Madhya Pradesh, India 🇮🇳",
-  education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
-  role     : "Aspiring Software Engineer & Data Analyst",
-  building : "ML models · BI Dashboards · CV Projects",
-  openTo   : ["Internships", "Collaborations", "Open Source"],
-  leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 8 },
-  github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
-  funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
-  askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
+- name     : "Ankit Vishwakarma",
+- location : "Bhopal, Madhya Pradesh, India 🇮🇳",
+- education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)",
+- role     : "Aspiring Software Engineer & Data Analyst",
+- building : "ML models · BI Dashboards · CV Projects",
+- openTo   : ["Internships", "Collaborations", "Open Source"],
+- leetcode : { solved: 350, easy: 186, medium: 139, hard: 25, maxStreak: 100, badges: 8 },
+- github   : { repos: "40+", submissions: "547/yr", activeDays: 264, commits: "312+" },
+- funFact  : "100-day LeetCode streak & 264 active coding days 🔥",
+- askMeAbout("Python", "Power BI", "Machine Learning", "SQL", "DSA")
 ---
 
 ## 🌐 Connect With Me
