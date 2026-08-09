@@ -1,12 +1,35 @@
-<div align="center">
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--        ANKIT VISHWAKARMA — GITHUB PROFILE README v4.0        -->
+<!--              All sections merged & verified ✅                -->
+<!-- ████████████████████████████████████████████████████████████ --> 
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&animation=twinkling" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/refs/heads/main/assets/profile_ascii.svg" width="600"/>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Vishwakarma;Aspiring+Software+Engineer+%26+Data+Analyst+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Ankit+Vishwakarma;Aspiring+Software+Engineer+%26+Data+Analyst+%F0%9F%9A%80)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitVishwakarma4591&color=00ff99&style=for-the-badge&label=PROFILE+VIEWS)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Max Streak](https://img.shields.io/badge/Max_Streak-100_Days_🔥-FF6B35?style=for-the-badge)](https://leetcode.com/u/AnkitVishwakarma4591/)
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships-00FF99?style=for-the-badge)](mailto:ankitvishwakarma4591@gmail.com)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+-  name     : "Ankit Vishwakarma"
+-  location : "Bhopal, Madhya Pradesh, India 🇮🇳"
+-  education: "B.Tech CSE @ SAGE University Bhopal (2023–2027)"
+-  role     : "Aspiring Software Engineer & Data Analyst"
+-  building : "ML models · BI Dashboards · CV Projects"
+=  openTo   : ["Internships", "Collaborations", "Open Source"]
+-  leetcode : { solved: 439, easy: 212, medium: 184, hard: 43, maxStreak: 144, badges: 8 }
+-  github   : { repos: "45+", submissions: "547/yr", activeDays: 264, commits: "312+" }
+-  askMeAbout : {"Python", "Power BI", "Machine Learning", "SQL", "DSA"}
 
 ---
 
