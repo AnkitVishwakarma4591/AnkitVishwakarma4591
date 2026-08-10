@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/refs/heads/main/assets/profile_ascii.svg" width="600"/>
+<img src="https://raw.githubusercontent.com/AnkitVishwakarma4591/AnkitVishwakarma4591/refs/heads/main/assets/profile_ascii_org.svg" width="600"/>
 
 <br/>
 
