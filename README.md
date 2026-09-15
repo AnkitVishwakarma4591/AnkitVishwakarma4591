@@ -218,6 +218,6 @@
 
 <br/>
 
-*"Data is the new oil, but insight is the new currency."*
+> *"Data is the new oil, but insight is the new currency."*
 
 </div>
